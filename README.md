@@ -41,11 +41,13 @@ prompts/prompt-framework.md (Full prompt system with documentation)
 
 outputs/website-copy-ember-lily-cafe.md (AI-generated website copy + tone comparison)
     
-## How to Reuse This Framework
+### How to Reuse This Framework
 - Open prompts/prompt-framework.md
 - Fill in the Master Context Prompt with your client's details
 - Run Prompt 1 -> 2 -> 3 in sequence in Claude or ChatGPT
 - Use Prompt 4 to adapt tone for a different business type
 - Copy outputs directly into Framer AI, Lovable, or any website builder
+
+### Website made using Lovable AI : https://ember-and-lily-local.lovable.app/
 
 *Future Interns — Prompt Engineering Internship Program 2026*
