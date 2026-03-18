@@ -48,6 +48,13 @@ outputs/website-copy-ember-lily-cafe.md (AI-generated website copy + tone compar
 - Use Prompt 4 to adapt tone for a different business type
 - Copy outputs directly into Framer AI, Lovable, or any website builder
 
-### Website made using Lovable AI : https://ember-and-lily-local.lovable.app/
+## Website Preview (Lovable)
+The generated copy was implemented into a live webpage using Lovable.
+
+Live site: https://ember-and-lily-local.lovable.app/
+
+Screenshots: `lovable-preview/`
+
+(Note: Ember & Lily Café is a fictional business created for demonstration purposes as part of a prompt engineering internship.)
 
 *Future Interns — Prompt Engineering Internship Program 2026*
